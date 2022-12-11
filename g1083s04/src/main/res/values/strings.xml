@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">g1083s04</string>
+    <string name="save">Save Movie</string>
+    <string name="tvGenre">Genre</string>
+    <string name="tvduration">Duration</string>
+    <string name="tvRelease">Release</string>
+    <string name="tvTitle">Title</string>
+    <string name="btnDate">SELECT DATE</string>
+    <array name="genre">
+        <item>Adventure</item>
+        <item>Comedy</item>
+        <item>Action</item>
+        <item>Animation</item>
+        <item>Drama</item>
+    </array>
+    <string name="action_settings">Settings</string>
+    <string name="Enola">https://www.urban.ro/wp-content/uploads/2020/09/enolaholmesposter.jpg</string>
+    <string name="Manifest">https://flxt.tmsimg.com/assets/p17602726_b_v13_ab.jpg</string>
+    <string name="Extraction">https://m.media-amazon.com/images/M/MV5BNDBkOWNiMTYtMjlkZS00NzJlLTg0ZmUtN2YwYWQ3N2I3N2Y0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg</string>
+    <string name="parse_json">Parse Json</string>
+    <string name="view_chart">View Chart</string>
+</resources>
